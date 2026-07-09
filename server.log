@@ -1,0 +1,50 @@
+INFO:     Started server process [9708]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
+INFO:     127.0.0.1:56485 - "GET /app/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52184 - "GET /app/ HTTP/1.1" 304 Not Modified
+INFO:     127.0.0.1:52184 - "GET /app/style.css HTTP/1.1" 304 Not Modified
+INFO:     127.0.0.1:55972 - "GET /app/app.js HTTP/1.1" 304 Not Modified
+INFO:     127.0.0.1:55972 - "GET /todos HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55972 - "GET /app/ HTTP/1.1" 304 Not Modified
+INFO:     127.0.0.1:55972 - "GET /todos HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55972 - "GET /app/ HTTP/1.1" 304 Not Modified
+INFO:     127.0.0.1:55972 - "GET /todos HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55972 - "GET /app/ HTTP/1.1" 304 Not Modified
+INFO:     127.0.0.1:55972 - "GET /todos HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55972 - "GET /app/ HTTP/1.1" 304 Not Modified
+INFO:     127.0.0.1:55972 - "GET /todos HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55972 - "GET /app/ HTTP/1.1" 304 Not Modified
+INFO:     127.0.0.1:55972 - "GET /todos HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55972 - "GET /app/ HTTP/1.1" 304 Not Modified
+INFO:     127.0.0.1:55972 - "GET /todos HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55972 - "GET /app/ HTTP/1.1" 304 Not Modified
+INFO:     127.0.0.1:55972 - "GET /todos HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55972 - "GET /app/ HTTP/1.1" 304 Not Modified
+INFO:     127.0.0.1:55972 - "GET /todos HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55972 - "GET /app/ HTTP/1.1" 304 Not Modified
+INFO:     127.0.0.1:55972 - "GET /todos HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55972 - "GET /app/ HTTP/1.1" 304 Not Modified
+INFO:     127.0.0.1:55972 - "GET /todos HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55972 - "GET /app/ HTTP/1.1" 304 Not Modified
+INFO:     127.0.0.1:55972 - "GET /todos HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55972 - "GET /app/ HTTP/1.1" 304 Not Modified
+INFO:     127.0.0.1:55972 - "GET /todos HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55972 - "GET /app/ HTTP/1.1" 304 Not Modified
+INFO:     127.0.0.1:55972 - "GET /todos HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55972 - "GET /app/ HTTP/1.1" 304 Not Modified
+INFO:     127.0.0.1:55972 - "GET /todos HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55972 - "GET /app/ HTTP/1.1" 304 Not Modified
+INFO:     127.0.0.1:55972 - "GET /todos HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55972 - "GET /app/ HTTP/1.1" 304 Not Modified
+INFO:     127.0.0.1:55972 - "GET /todos HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51268 - "GET /login HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51268 - "GET /app/login.css HTTP/1.1" 304 Not Modified
+INFO:     127.0.0.1:51718 - "GET /app/login.js HTTP/1.1" 304 Not Modified
+INFO:     127.0.0.1:58809 - "GET /login HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54744 - "GET /login HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54744 - "GET /app/login.js HTTP/1.1" 304 Not Modified
+INFO:     127.0.0.1:54744 - "GET /login HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54744 - "GET /login HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54744 - "GET /login HTTP/1.1" 200 OK
