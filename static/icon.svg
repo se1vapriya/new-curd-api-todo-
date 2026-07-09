@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" role="img" aria-label="Plan It app icon">
+  <rect width="512" height="512" rx="116" fill="#F26B22"></rect>
+  <g transform="translate(138.5,138.5) scale(2.35)">
+    <g transform="rotate(45 50 50)">
+      <rect x="39" y="16" width="22" height="52" rx="7" fill="#FFFFFF"></rect>
+      <rect x="39" y="28" width="22" height="4" fill="#F26B22" opacity="0.55"></rect>
+      <polygon points="39,66 61,66 50,88" fill="#FFFFFF"></polygon>
+      <polygon points="45.5,78 54.5,78 50,88" fill="#22262F"></polygon>
+    </g>
+  </g>
+</svg>

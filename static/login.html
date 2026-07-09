@@ -1,0 +1,45 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Log in — Plan It</title>
+<link rel="icon" type="image/svg+xml" href="/app/icon.svg" />
+<link rel="stylesheet" href="/app/login.css" />
+</head>
+<body>
+  <main class="login">
+    <div class="login__card">
+      <img class="login__icon" src="/app/icon.svg" alt="Plan It" />
+      <h1 class="login__title">Plan It</h1>
+      <p class="login__subtitle">Log in to see your todos</p>
+
+      <form id="login-form" class="login__form">
+        <label class="login__label" for="username-input">Username</label>
+        <input
+          type="text"
+          id="username-input"
+          class="login__input"
+          autocomplete="username"
+          required
+        />
+
+        <label class="login__label" for="password-input">Password</label>
+        <input
+          type="password"
+          id="password-input"
+          class="login__input"
+          autocomplete="current-password"
+          required
+        />
+
+        <p id="login-error" class="login__error" hidden></p>
+
+        <button type="submit" class="login__submit">Log in</button>
+      </form>
+    </div>
+  </main>
+
+  <script src="/app/login.js"></script>
+</body>
+</html>
